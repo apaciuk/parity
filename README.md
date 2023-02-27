@@ -52,3 +52,5 @@ $ irb -r parity
 #### Test
 
 ruby test/test_parity.rb
+
+##### Workflow, GH action run tests
