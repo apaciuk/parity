@@ -7,11 +7,12 @@ Gem to split arrays by parity, odd/even
 Add lines to your application's Gemfile:
 
 source 'https://gem.fury.io/xhostcom/' do
-gem 'parity', '~> 0.0.3'
+gem 'parity', '~> 0.0.4'
 end
 
+## Or
 ```ruby
-gem "parity"
+gem 'parity', '~> 0.0.4', :github => 'xhostcom/parity'
 ```
 
 And then execute:
